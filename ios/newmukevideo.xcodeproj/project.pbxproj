@@ -194,7 +194,6 @@
 				F7166E7438F11B450E17012E /* Pods-newmukevideoTests.debug.xcconfig */,
 				7BBA7BD19945274D491A6C1E /* Pods-newmukevideoTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -635,7 +634,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.newmukevideo;
 				PRODUCT_NAME = newmukevideo;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -654,7 +653,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.newmukevideo;
 				PRODUCT_NAME = newmukevideo;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
