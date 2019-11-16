@@ -24,7 +24,7 @@ export default class Welcome extends Component {
         return (
             <View style={{  flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#fff',}}>
 
-                <Image source={{uri: "a1024"}} style={{width: 80, height: 80}}></Image>
+                <Image source={{uri: "app1024"}} style={{width: 80, height: 80}}></Image>
                 <Text style={{color: "#36aaf9", fontSize: 24, marginTop: 5}}>慕课视频</Text>
 
                 <TouchableOpacity onPress={() => {
